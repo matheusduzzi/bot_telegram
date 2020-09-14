@@ -1,8 +1,6 @@
-# B3 Bot for telegram
+# Bot da B3 para o Telegram
 
-Simple code to receive B3 forecasts on telegram everyday.
-Different tickets? 
+Código simples de implementação de um bot para avisar sobre a previsão de valores de determinadas ações da bolsa.
+Possui ações diferentes? Só alterar a função!
 
-Change this on the function.
-
-Hope you enjoy my first bot!
+Espero que goste!
