@@ -7,5 +7,3 @@ Código simples de implementação de um bot para avisar sobre a previsão de va
 Realizado por meio da integração do R com o Telegram, possibilitado por meio do botfather. Aplicação de uso pessoal.
 
 Possui ações diferentes? Só alterar a função!
-
-Espero que goste!
